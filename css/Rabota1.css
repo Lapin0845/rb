@@ -1,0 +1,31 @@
+body{
+    margin-right: 25px;
+    display: inline-block;
+    vertical-align: 100px;
+    padding-left: 100px;
+}
+.Menu li {
+    margin-right: 25px;
+    display: inline-block;
+    vertical-align:50px;
+    padding-right:25px
+}
+
+h1{
+ padding-left:35px
+}
+h3{
+    padding-left:35px;
+}
+section{
+    font-size:30px
+}
+p{
+    padding-left:35px;
+    font-size:20px;
+    vertical-align:10px;
+}
+Footer{
+    text-align: center;
+}
+
